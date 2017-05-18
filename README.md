@@ -24,3 +24,8 @@ DELETE /todos/:id	Delete a todo and its items
 GET /todos/:id/items	Get a todo item
 PUT /todos/:id/items	Update a todo item
 DELETE /todos/:id/items	Delete a tod
+
+
+ Final result of @Austin Kabiru tutorials.
+
+ https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one

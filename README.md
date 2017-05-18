@@ -1,6 +1,6 @@
 # README
 
-Sample API app in rails 5
+This is my workshop project in rails 5 with api only.
 
 
 * Ruby version : ruby 2.3.3p222
